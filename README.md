@@ -1,4 +1,3 @@
-# Proiect-CC
 # Agenda mea de prajituri
 
 ## Introducere
@@ -27,7 +26,7 @@ API-ul Vercel poate fi folosit pentru a efectua operațiuni precum crearea și a
 De asemenea, Vercel oferă și integrări cu alte servicii și instrumente populare de dezvoltare, cum ar fi GitHub, GitLab, Slack și Notion. Prin intermediul API-ului Vercel, dezvoltatorii pot automatiza sarcinile repetitive și pot integra funcționalitățile Vercel în propriile aplicații și fluxuri de lucru. API-ul este bine documentat și ușor de utilizat, fiind disponibil prin intermediul unor cereri HTTP simple și clare. <br/> 
  
     
-    Pe langa API-urile prezentate mai sus am utilizat si Postman. Aceasta aplicatie este folosita pentru testarea si dezvoltarea de API-uri (interfețe de programare a aplicațiilor). Este un instrument de dezvoltare și testare a API-urilor care permite dezvoltatorilor să trimită cereri HTTP sau HTTPS către un API și să primească răspunsuri în timp real. Postman poate fi utilizat pentru a testa o varietate de metode HTTP, inclusiv GET, POST, PUT și DELETE. În plus, Postman permite dezvoltatorilor sa gestioneze cererile, să creeze colecții de cereri, să automatizeze fluxurile de lucru și să genereze documentații pentru API-uri.<br/> 
+Pe langa API-urile prezentate mai sus am utilizat si Postman. Aceasta aplicatie este folosita pentru testarea si dezvoltarea de API-uri (interfețe de programare a aplicațiilor). Este un instrument de dezvoltare și testare a API-urilor care permite dezvoltatorilor să trimită cereri HTTP sau HTTPS către un API și să primească răspunsuri în timp real. Postman poate fi utilizat pentru a testa o varietate de metode HTTP, inclusiv GET, POST, PUT și DELETE. În plus, Postman permite dezvoltatorilor sa gestioneze cererile, să creeze colecții de cereri, să automatizeze fluxurile de lucru și să genereze documentații pentru API-uri.<br/> 
 
 
 In figura 1 se observa o cerere de tip GET care intoarce toate inregistrarile din baza de date MongoDB sub forma de JSON, iar in figura 2 am facut o cerere de tip DELETE; am adaugat anterior o inregistrare de test pe care am sters-o. Toate elementele de tip JSON sunt de forma:
